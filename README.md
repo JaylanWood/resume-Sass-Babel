@@ -10,5 +10,5 @@
 
 ## 效果预览
 
-[预览地址]()
+[预览地址](https://jaylanwood.github.io/resume-Sass-Babel/dist/)
 
